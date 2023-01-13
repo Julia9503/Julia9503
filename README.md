@@ -1,4 +1,4 @@
--  hello hello, i’m @Julia9503
+-  hello hello, i'm julia
 -  studying civil engineering in germany
 -  working on bim & ifc
 
